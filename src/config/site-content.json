@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "瓜皮的个人博客",
+		"description": "瓜皮的个人博客",
+		"username": "瓜皮"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/gua-pi-6",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "link",
+			"value": "https://blog.csdn.net/2302_80014993",
+			"label": "CSDN",
 			"order": 2
 		},
 		{
 			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"type": "qq",
+			"value": "2396519727@qq.com",
 			"label": "",
 			"order": 1
 		}
