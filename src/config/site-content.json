@@ -5,7 +5,7 @@
 		"username": "瓜皮"
 	},
 	"theme": {
-		"colorBrand": "#de4331",
+		"colorBrand": "#88E3B2",
 		"colorPrimary": "#4E3F42",
 		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#FCC841",
@@ -15,12 +15,11 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#FCC841",
-		"#DFEFFC",
-		"#DEDE92",
-		"#DE4331",
-		"#FE9750",
-		"#FCC841"
+		"#0F7053",
+		"#195C0E",
+		"#2B32D3",
+		"#2A6651",
+		"#3B26E0"
 	],
 	"artImages": [
 		{

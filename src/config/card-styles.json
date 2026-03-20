@@ -37,8 +37,8 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -124,
+		"offsetY": 253,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -85,8 +85,8 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 215,
+		"offsetY": 260,
 		"enabled": true
 	},
 	"hatCard": {
