@@ -54,7 +54,7 @@ codeXml
 
 
 
-```
+```xml
 <dependency>
     <groupId>org.apache.shardingsphere</groupId>
     <artifactId>shardingsphere-jdbc-core-spring-boot-starter</artifactId>
@@ -70,7 +70,7 @@ codeYaml
 
 
 
-```
+```yml
 spring:
   shardingsphere:
     # 1. 配置真实的数据源 (配置 db0 和 db1)
@@ -124,7 +124,7 @@ codeSQL
 
 
 
-```
+```sql
 -- 插入订单
 INSERT INTO t_order (order_id, user_id, amount) VALUES (101, 200, 99.8);
 
