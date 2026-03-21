@@ -1,5 +1,17 @@
 [
   {
+    "slug": "1",
+    "title": "日常学习 day-01 (ShardingSphere)",
+    "tags": [
+      "日常学习"
+    ],
+    "date": "2026-03-21T23:17",
+    "summary": "ShardingSphere 分库分表",
+    "cover": "/blogs/1/ce22bde5b3dfae72.png",
+    "hidden": false,
+    "category": "总结"
+  },
+  {
     "slug": "Redis",
     "title": "搞懂 Redis 与数据库的数据一致性",
     "tags": [
