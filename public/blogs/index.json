@@ -1,5 +1,15 @@
 [
   {
+    "slug": "day-01",
+    "title": "day-01",
+    "tags": [],
+    "date": "2026-03-21T23:52",
+    "summary": "day-01",
+    "cover": "/blogs/day-01/ce22bde5b3dfae72.png",
+    "hidden": false,
+    "category": "日常学习"
+  },
+  {
     "slug": "1",
     "title": "日常学习 day-01 (ShardingSphere 分库分表)",
     "tags": [
